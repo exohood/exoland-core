@@ -1,8 +1,8 @@
-/*
-/***  
+
+
 EXOHOOD NFT MARKET
 
-* https://www.exohood.com
+* https://exohood.com/nft-market
 
 exohood-nft
 
