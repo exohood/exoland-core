@@ -2,11 +2,9 @@
 
 EXOHOOD NFT MARKET
 
-* https://exohood.com/nft-market
+* https://exoland.xyz
 
-exohood-nft
-
-nft contracts for exohood
+nft contracts for exoland
 
 npm run delopy # flatter contract
 
