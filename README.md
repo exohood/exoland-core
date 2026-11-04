@@ -1,5 +1,21 @@
 ![Title](exoland.png)
 
+---
+> ⚠️ **PROJECT PERMANENTLY DISCONTINUED — EXOLAND NFT SERVICES**
+>
+> Exohood Labs. has permanently discontinued the original Exoland NFT services initiative described in this repository.
+>
+> **The proposed NFT marketplace, digital collectible services, minting platform, virtual real estate features, and associated financial integrations are no longer under development and will not be launched under this initiative.**
+>
+> Previously published features, technical specifications, environmental claims, development plans, and service descriptions are retained exclusively for historical and informational purposes. They represent the original project concept and must not be interpreted as active services, verified capabilities, or future launch commitments.
+>
+> **Exohood Labs does not authorize, operate, promote, or endorse third-party platforms claiming to represent an official continuation of this discontinued NFT initiative.** Users should not transfer funds, connect wallets, or purchase digital assets based on such claims.
+>
+> This notice concerns the historical NFT services initiative documented in this repository and should not be interpreted as a statement about other independently maintained Exoland activities.
+>
+> **Project Status: Permanently Discontinued - No NFT Services or Marketplace Launch Planned.**
+---
+
 # Next-Generation NFTs Service
 
 🚧 Project Under Construction 🚧
